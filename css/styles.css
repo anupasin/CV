@@ -1,0 +1,23 @@
+body {
+  background-color: honeydew;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+h1 {
+  font-family: Verdana;
+  color: #004a2f;
+  }
+h2 {
+  font-family: Verdana;
+  color: #004a2f;
+}
+h3 {
+  font-family: Verdana;
+  color: #004a2f;
+}
